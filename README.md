@@ -1,4 +1,4 @@
-# CaseRoom — Adaptive USMLE Step 2 CK Practice Platform
+# CaseRoom — AI Powred Adaptive Clinical Case Practice Platform
 
 > AI-generated clinical cases that get harder in exactly the right places.
 
