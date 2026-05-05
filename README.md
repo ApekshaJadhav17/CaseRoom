@@ -191,7 +191,8 @@ After every case, the student can ask anything — "Why not aortic dissection?",
 
 
 <p align="center">
-  <img src="assets/Screenshot%202026-05-05%20at%209.43.56%E2%80%AFAM.png)" width="800"/>
+  <img src="assets/Screenshot 2026-05-05 at 9.43.56 AM.png" width="800"/>
+      
 </p>
 ```
 
