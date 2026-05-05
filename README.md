@@ -189,12 +189,12 @@ After every case, the student can ask anything — "Why not aortic dissection?",
 ---
 ## Microservices Architecture
 
-```
+
 <p align="center">
-  <img src="./assets/Screenshot%202026-05-05%20at%209.43.56%E2%80%AFAM.png)" width="800"/>
+  <img src="assets/Screenshot%202026-05-05%20at%209.43.56%E2%80%AFAM.png)" width="800"/>
 </p>
 ```
----
+
 
 ## Project Structure
 
