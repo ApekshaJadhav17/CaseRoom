@@ -187,6 +187,12 @@ The top-5 chunks are injected into the `clinical_builder` system prompt, groundi
 After every case, the student can ask anything — "Why not aortic dissection?", "What labs confirm this?", "How do I manage this long-term?" The `groq_service.generate_follow_up()` function classifies the intent of the question and tailors the response style. Every AI response ends with a follow-up Socratic probe to push reasoning one level deeper. Conversation history is maintained client-side and sent with each request, so the AI resident has full context of the teaching session.
 
 ---
+## Microservices Architecture
+
+```
+<img width="297" height="370" alt="Screenshot 2026-05-05 at 9 43 56 AM" src="https://github.com/user-attachments/assets/c3ebe6b9-f1f9-4c8b-8869-0573dea3851a" />
+```
+---
 
 ## Project Structure
 
