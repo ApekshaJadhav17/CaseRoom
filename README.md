@@ -190,7 +190,9 @@ After every case, the student can ask anything — "Why not aortic dissection?",
 ## Microservices Architecture
 
 ```
-<img width="297" height="370" alt="Screenshot 2026-05-05 at 9 43 56 AM" src="https://github.com/user-attachments/assets/c3ebe6b9-f1f9-4c8b-8869-0573dea3851a" />
+<p align="center">
+  <img src="./assets/architecture.png" width="800"/>
+</p>
 ```
 ---
 
